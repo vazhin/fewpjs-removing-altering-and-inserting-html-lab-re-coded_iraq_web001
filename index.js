@@ -1,3 +1,3 @@
 // Write your code here!
-let main = document.body.querySelector('main#main');
+let main = document.querySelector('main#main');
 main.remove();
